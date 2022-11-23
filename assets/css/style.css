@@ -1,0 +1,20 @@
+.head {
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
+
+.head-title p {
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+.head-title img {
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
